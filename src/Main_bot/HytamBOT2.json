@@ -1,0 +1,10 @@
+{
+  "name": "[Hytam]BOT2",
+  "version": "2.0",
+  "authors": ["Jimmy Simatupang", "Paulus Siahaan", "Lennon Lumbantoruan"],
+  "description": "Tank Bot dengan implementasi Algoritma Greedy (Dinamis & Anti-Linear)",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

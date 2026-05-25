@@ -1,0 +1,13 @@
+{
+  "name": "Bot 2",
+  "version": "1.0",
+  "authors": ["Jimmmi"],
+  "description": "Sok Keras kau bos",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "gameTypes": ["classic"],
+  "programmingLang": "C# 10.0",
+  "platformVersion": "6.0"
+}
+  
